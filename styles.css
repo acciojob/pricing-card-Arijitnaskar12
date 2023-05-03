@@ -1,1 +1,25 @@
 /*  your css code here. If applicable */
+.container img{
+	width:200px;
+}
+.container{
+	width:200px;
+	height:450px;
+	margin:auto;
+/* 	position:relative;
+	left:200px; */
+/* 	box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; */
+	box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+	padding:50px
+
+}
+.content #btn{
+	position:relative;
+	left:20px;
+	background-color:rgb(255,51,51);
+	font-size:30px;
+	color:white;
+	border-radius:10px;
+	padding:20px;
+	
+}
